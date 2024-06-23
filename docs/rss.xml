@@ -1,2 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://lao-mu-ji.github.io/yuyuyu.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://lao-mu-ji.github.io/yuyuyu.github.io</link></image><lastBuildDate>Sun, 23 Jun 2024 09:08:34 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://lao-mu-ji.github.io/yuyuyu.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://lao-mu-ji.github.io/yuyuyu.github.io</link></image><lastBuildDate>Sun, 23 Jun 2024 16:21:31 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>第二次报错了</title><link>https://lao-mu-ji.github.io/yuyuyu.github.io/post/di-er-ci-bao-cuo-le.html</link><description>#尝试。</description><guid isPermaLink="true">https://lao-mu-ji.github.io/yuyuyu.github.io/post/di-er-ci-bao-cuo-le.html</guid><pubDate>Sun, 23 Jun 2024 09:21:24 +0000</pubDate></item><item><title>第一次忘记添加label</title><link>https://lao-mu-ji.github.io/yuyuyu.github.io/post/di-yi-ci-wang-ji-tian-jia-label.html</link><description>#1 &#13;
++ 无序列表 1&#13;
++ 无序列表 2&#13;
+	+ 无序列表 2.1&#13;
+	+ 无序列表 2.2&#13;
+&#13;
+1. 有序列表 1&#13;
+	1.1 有序列表 1.1&#13;
+2. 有序列表 2&#13;
+	2.1 有序列表2.1&#13;
+。</description><guid isPermaLink="true">https://lao-mu-ji.github.io/yuyuyu.github.io/post/di-yi-ci-wang-ji-tian-jia-label.html</guid><pubDate>Sun, 23 Jun 2024 09:19:01 +0000</pubDate></item></channel></rss>
